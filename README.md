@@ -33,6 +33,11 @@ In questa ISO **non sono state inserite utility extra**. L'utente troverà un si
 * **GameMode (Feral Interactive)**: Preinstallato e configurato. Permette di spremere ogni briciolo di potenza dal processore i3 quando si avviano giochi o applicazioni pesanti, ottimizzando le priorità della CPU.
 * **ZRAM**: Ottimizzazione della memoria virtuale (molto più veloce del classico file di Swap su disco).
 
+* ### 💾 Test sul campo (Real Hardware Test)
+* **Dispositivo di test**: Asus K52F (Intel i3 1st Gen).
+* **Storage**: Testato con successo su **HDD meccanico da 250 GB**.
+* **Risultato**: Nonostante l'uso di un disco rigido tradizionale (non SSD), il sistema mantiene una reattività eccellente e tempi di avvio rapidi, grazie all'ottimizzazione del file system e della ZRAM.
+
 * ### 🖼️ Supporto Grafico e Multimedia
 * **Intel Media-VAAPI**: Driver completi preinstallati per l'accelerazione hardware video.
 * **Intel Media Driver**: Supporto totale alle librerie grafiche Intel per una riproduzione video fluida e minor carico sulla CPU.
