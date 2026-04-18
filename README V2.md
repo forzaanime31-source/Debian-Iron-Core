@@ -10,6 +10,9 @@ Base: Debian Trixie (Testing) con LXDE
     Password: r19913r0
     (Valide anche per l'utente root)
 
+## 🚀 Download ISO
+[Il link verrà inserito tra poco...]
+
 🛠️ NOTE TECNICHE E CONSIGLI
 
     HDD Vecchi? Non mollare!
