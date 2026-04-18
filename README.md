@@ -1,5 +1,5 @@
 # Debian-Iron-Core
-Versione personalizzata di Debian con temi di WhiteSur e icone Papirus per Asus k52f i3 prima generazione
+Versione personalizzata di Debian LXDE 13.4.0 con temi di WhiteSur e icone Papirus per Asus k52f i3 prima generazione
 # Debian Iron Core 🐧💎
 
 Benvenuti nel repository ufficiale della **Debian Iron Core**, una versione personalizzata e alleggerita di Debian, nata per ridare vita all'hardware datato come l'**Asus K52F (Intel i3 1st Gen)**.
