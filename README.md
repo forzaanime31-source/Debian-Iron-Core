@@ -32,3 +32,8 @@ In questa ISO **non sono state inserite utility extra**. L'utente troverà un si
 ### 🎮 Gaming e Performance
 * **GameMode (Feral Interactive)**: Preinstallato e configurato. Permette di spremere ogni briciolo di potenza dal processore i3 quando si avviano giochi o applicazioni pesanti, ottimizzando le priorità della CPU.
 * **ZRAM**: Ottimizzazione della memoria virtuale (molto più veloce del classico file di Swap su disco).
+
+* ### 🖼️ Supporto Grafico e Multimedia
+* **Intel Media-VAAPI**: Driver completi preinstallati per l'accelerazione hardware video.
+* **Intel Media Driver**: Supporto totale alle librerie grafiche Intel per una riproduzione video fluida e minor carico sulla CPU.
+* **Mesa Extras**: Librerie aggiornate per garantire che l'interfaccia WhiteSur sia reattiva e senza lag grafici.
