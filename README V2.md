@@ -16,7 +16,8 @@ Base: Debian Trixie (Testing) con LXDE
 🛠️ NOTE TECNICHE E CONSIGLI
 
     HDD Vecchi? Non mollare!
-    Se l'installazione su vecchi dischi meccanici fallisce, riprova una seconda volta. Gli HDD datati a volte hanno bisogno di un secondo tentativo per "ingranare" correttamente.
+    Se l'installazione su vecchi dischi meccanici fallisce, riprova una seconda volta. 
+    Gli HDD datati a volte hanno bisogno di un secondo tentativo per "ingranare" correttamente.
 
     Memoria Infinita (Swap File):
     Se la ZRAM non basta, usa questi comandi per creare swap extra (ma ricorda che ruba spazio al disco!):
@@ -26,10 +27,9 @@ Base: Debian Trixie (Testing) con LXDE
 
 ⚠️ AVVERTENZA PER LA SALUTE MENTALE
 
-Il sistema è ottimizzato per lo stile WhiteSur. Se volete veramente perdere la testa e rischiare di perdere la calma provando a installare temi e icone di Windows su questa build... AUGURI PER LA VOSTRA TESTA! Siete stati avvisati.
-
-
-
+Il sistema è ottimizzato per lo stile WhiteSur. Se volete veramente perdere la testa e rischiare di perdere 
+la calma provando a installare temi e icone di Windows su questa build... 
+AUGURI PER LA VOSTRA TESTA! Siete stati avvisati.
 
 # Penguins' eggs 
 In January 2026, we carried out an extensive renovation of NEST to achieve a more logical structure. 
@@ -54,14 +54,17 @@ Previously called ovarium:
 * ubindvfs
 
 ## liveroot
-This is where we have the liveroot scructure, it consist in all the filesystem of your system, mounted  binded and overlay, it is the base for the creation of the filesystem.squashfs.
+This is where we have the liveroot scructure, it consist in all the filesystem of your system, 
+mounted  binded and overlay, it is the base for the creation of the filesystem.squashfs.
 
-Due the fact who actually is not a real copy of your filesystem, we use overlayfs to get this witable and don't cause problems at your current filesytem.
+Due the fact who actually is not a real copy of your filesystem, we use overlayfs to get 
+this witable and don't cause problems at your current filesytem.
 
 You will find in it all the filesystem you will found in your image when it is booted.
 
 ## mnt
-This can be used as a mounting point for a local or remote device to obtain sufficient space for remastering if there is not enough space on the disk.
+This can be used as a mounting point for a local or remote device to obtain sufficient 
+space for remastering if there is not enough space on the disk.
 
 ### mnt/iso
 Contains the structure of the iso image:
@@ -83,10 +86,13 @@ isolinux contain the isolinux files for the boot of the livecd.
 live contain only 3 files: vmliuz, initrd.img and filesystem.squashfs who is the 
 
 ## tmp/efi
-This is where we have the efi structure, it consist in all the filesystem of your system, mounted  binded and overlay, it is the base for the creation of the filesystem.squashfs.
+This is where we have the efi structure, it consist in all the filesystem of your system, 
+mounted  binded and overlay, it is the base for the creation of the filesystem.squashfs.
 
 # Customize your image before to generate it
-if you want more control on the production of your iso, try the --scripts flag, it's instantaneous: will generate filesystem directory, iso structure complete and the related scripts to populate liveroot, squash it and create iso.
+if you want more control on the production of your iso, try the --scripts flag, it's instantaneous: 
+will generate filesystem directory, iso structure complete and the related scripts to populate liveroot, 
+squash it and create iso.
 
 * populate liveroot binding it to real filesystem:
   * bin/bind
