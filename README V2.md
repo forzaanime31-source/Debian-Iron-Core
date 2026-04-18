@@ -11,7 +11,7 @@ Base: Debian Trixie (Testing) con LXDE
     (Valide anche per l'utente root)
 
 ## 🚀 Download ISO
-[Il link verrà inserito tra poco...]
+[https://drive.google.com/file/d/15KNiu69Zu4jU1j5ipHeZDSLNttxvQByx/view?usp=drive_link]
 
 🛠️ NOTE TECNICHE E CONSIGLI
 
