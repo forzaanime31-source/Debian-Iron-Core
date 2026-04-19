@@ -5,13 +5,13 @@ Peso della ISO: ~3.2 GB
 Base: Debian Trixie (Testing) con LXDE
 🔐 CREDENZIALI LIVE (FONDAMENTALI)
 
-    Username: asus
+    Username: 
 
-    Password: r19913r0
+    Password: 
     (Valide anche per l'utente root)
 
 ## 🚀 Download ISO
-[https://drive.google.com/file/d/15KNiu69Zu4jU1j5ipHeZDSLNttxvQByx/view?usp=drive_link]
+[]
 
 🛠️ NOTE TECNICHE E CONSIGLI
 
