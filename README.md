@@ -57,3 +57,13 @@ Puoi scaricare l'immagine ISO direttamente dal link qui sotto (Google Drive):
     (Opzionale) Installa il tuo tema preferito per completare il look.
 
 Sviluppato con passione per la community Linux.
+
+<img width="3060" height="4080" alt="20260419_191737" src="https://github.com/user-attachments/assets/6153316f-d3a5-4e33-9f28-786600c02441" />
+<img width="3060" height="4080" alt="20260419_191516" src="https://github.com/user-attachments/assets/f28abe4b-f547-4fc3-8bfe-dfc6ee03e435" />
+<img width="3060" height="4080" alt="20260419_191413" src="https://github.com/user-attachments/assets/d844367c-052d-47de-9bf1-0db7a0e03caa" />
+<img width="3060" height="4080" alt="20260419_191408" src="https://github.com/user-attachments/assets/4a2eaa84-15e7-4fe9-a1e0-42b67d440f69" />
+<img width="3060" height="4080" alt="20260419_191327" src="https://github.com/user-attachments/assets/35ac4969-ff3d-4f69-9a63-47306ceffb8f" />
+<img width="3060" height="4080" alt="20260419_191312" src="https://github.com/user-attachments/assets/288c0f4e-e841-4ded-9394-a920aa7b0e63" />
+<img width="3060" height="4080" alt="20260419_191301" src="https://github.com/user-attachments/assets/89cd5192-d792-496b-b6c5-6aff055a50cf" />
+<img width="3060" height="4080" alt="20260419_191247" src="https://github.com/user-attachments/assets/e205e62e-fab0-4c88-8af6-71c52f573eb6" />
+
