@@ -50,7 +50,7 @@ Puoi scaricare l'immagine ISO direttamente dal link qui sotto (Google Drive):
 
     Scarica la ISO dal link sopra.
 
-    Scrivila su una chiavetta USB (consigliato l'uso di dd o BalenaEtcher).
+    Scrivila su una chiavetta USB (consigliato l'uso di Ventoy o BalenaEtcher).
 
     Avvia il tuo PC dalla chiavetta e goditi la velocità di Debian Test.
 
