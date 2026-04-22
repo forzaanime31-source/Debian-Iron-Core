@@ -41,16 +41,6 @@ desktop e tema preferito partendo da una base solida e pulita.
 
     Swap Optimization: Configurazione ottimizzata per ridurre l'usura del disco SSD/eMMC.
 
-Per la Batteria e il Risparmio Energetico (La novità di stasera): "lo dovete installare non lo fatto"
-
-    tlp
-
-    tlp-rdw
-
-    sudo tlp start
-
-    sudo tlp-stat -s
-
 📥 Download
 
 Puoi scaricare l'immagine ISO direttamente dal link qui sotto (Google Drive):
