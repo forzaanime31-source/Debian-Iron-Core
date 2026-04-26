@@ -1,3 +1,6 @@
+
+<img width="3060" height="4080" alt="20260419_191737" src="https://github.com/user-attachments/assets/6153316f-d3a5-4e33-9f28-786600c02441" />
+
 🐧 Debian-IronCore-v1-Asus-Optimized.iso
 
 Questa è una versione personalizzata di Debian Testing, configurata per offrire le migliori prestazioni e stabilità su 
@@ -58,7 +61,6 @@ Puoi scaricare l'immagine ISO direttamente dal link qui sotto (Google Drive):
 
 Sviluppato con passione per la community Linux.
 
-<img width="3060" height="4080" alt="20260419_191737" src="https://github.com/user-attachments/assets/6153316f-d3a5-4e33-9f28-786600c02441" />
 <img width="3060" height="4080" alt="20260419_191516" src="https://github.com/user-attachments/assets/f28abe4b-f547-4fc3-8bfe-dfc6ee03e435" />
 <img width="3060" height="4080" alt="20260419_191413" src="https://github.com/user-attachments/assets/d844367c-052d-47de-9bf1-0db7a0e03caa" />
 <img width="3060" height="4080" alt="20260419_191408" src="https://github.com/user-attachments/assets/4a2eaa84-15e7-4fe9-a1e0-42b67d440f69" />
