@@ -1,4 +1,4 @@
-🐧 Debian Test 13.4.0 - Optimized (Demo Version)
+🐧 Debian-IronCore-v1-Asus-Optimized.iso
 
 Questa è una versione personalizzata di Debian Testing, configurata per offrire le migliori prestazioni e stabilità su 
 hardware moderno (testata su ASUS K52F i3 di prima generazione).
